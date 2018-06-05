@@ -3246,6 +3246,8 @@ a.fc-event.calendar-item {
    background-color: #f3f1e8;
    border: 1px solid #d5cdaa;
    border-radius: 5px;
+   padding: 8px;
+   margin: 5px;
 }
 .media-kit-panel .pane-title {
    background-image: url("images/blockheader.png");
