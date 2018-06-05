@@ -3241,3 +3241,22 @@ a.fc-event.calendar-item {
   margin-right: 0%;
   margin-left: 0%;
 }
+
+.media-kit-panel {
+   background-color: #f3f1e8;
+   border: 1px solid #d5cdaa;
+   border-radius: 5px;
+}
+.media-kit-panel .pane-title {
+   background-image: url("images/blockheader.png");
+   background-image: url(/sites/www.lawrenceswittner.com/themes/lwtheme/images/blockheader.png);
+   min-height: 40px;
+   line-height: 40px;
+   color: #000000;
+   margin: 0;
+   padding: 0 10px 0 10px;
+   white-space: nowrap;
+   text-align: center;
+   font-size: 1.3em;
+   border-radius: 5px;
+}
