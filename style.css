@@ -3251,7 +3251,6 @@ a.fc-event.calendar-item {
 }
 .media-kit-panel .pane-title {
    background-image: url("images/blockheader.png");
-   background-image: url(/sites/www.lawrenceswittner.com/themes/lwtheme/images/blockheader.png);
    min-height: 40px;
    line-height: 40px;
    color: #000000;
@@ -3261,4 +3260,12 @@ a.fc-event.calendar-item {
    text-align: center;
    font-size: 1.3em;
    border-radius: 5px;
+}
+#media-kit-toc .menu {
+   width: 25%;
+   margin: 1em auto 1em auto;
+}
+#media-kit-toc .menu li {
+   margin: 5px 0 0 10px;
+   font-weight: bold;
 }
